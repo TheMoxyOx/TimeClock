@@ -1,0 +1,29 @@
+/* admin page css, to be merged with default.css later */
+
+#admintitle {
+	text-align:center;
+	margin:auto;
+}
+
+/* employee name */
+.empname {
+	background-color:#E5E5E5;
+	display: block;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+}
+
+.empname:before {
+	content: " + ";
+}
+
+/* employee total */
+.emptotal {
+
+}
+
+.total_a {
+	margin-top: -24px;
+margin-left: 100px;
+}
